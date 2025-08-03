@@ -46,12 +46,6 @@ A full-stack web platform that bridges the communication gap using Indian Sign L
 | HTML, CSS     | Express.js     | OpenCV        | Firestore DB   |
 
 ---
-
-## 📸 Screenshots
-*(Add relevant screenshots or screen recordings of your app here.)*
-
----
-
 ## 🛠️ Installation
 
 1. Clone the repository:
