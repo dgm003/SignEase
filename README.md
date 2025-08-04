@@ -50,7 +50,7 @@ A full-stack web platform that bridges the communication gap using Indian Sign L
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/gagandeep1763/SignEase.git
+   git clone https://github.com/dgm003/SignEase.git
    cd SignEase
 2. Install dependencies:
    ```bash
@@ -64,16 +64,12 @@ A full-stack web platform that bridges the communication gap using Indian Sign L
 Contributions: 
 Contributions, issues, and feature requests are welcome! Feel free to check the Issues section.
 
-📜 License: 
-This project is licensed under the MIT License. See the LICENSE file for details.
-
 🙌 Acknowledgements
 Thanks to:
 
-ISL Dictionary Dataset for video resources
+ISL Dictionary Dataset for video resources(for more info, contact us)
 
 Teammates: Dhanush,Gagandeep, Aryan, Jayanth
 
-Our Guide: @Nandita Ma'am for her support and mentorship
 
 
